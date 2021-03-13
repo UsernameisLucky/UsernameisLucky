@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @UsernameisLucky
-- 👀 I’m interested in Python,Linux,Cloud+Devops
-- 🌱 I’m currently learning Devops
-# - 💞️ I’m looking to collaborate on ...
-# - 📫 How to reach me ...
+# - 👋 Hi, I’m @UsernameisLucky
+# - 👀 I’m interested in Python,Linux,Cloud+Devops
+# - 🌱 I’m currently learning Devops
 
 <!---
 UsernameisLucky/UsernameisLucky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
